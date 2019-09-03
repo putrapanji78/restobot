@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="./logo.png" width="300"/><br>
-</h1>
-
 ## Important
 This project is still on very early development stage. If you want to use for production, use it with your own risk.
 <br>More feature Coming Really Soon.
@@ -12,17 +8,14 @@ Restobot is mobile app for orders food or drink in the restaurant.
 ## Screenshots
 
 <p float="left">
-  <img src="https://content.screencast.com/users/Radiegtya/folders/Jing/media/55fda3a2-425f-4890-b027-660a8a80285d/00000962.png" width="200" height="350" alt="Choose a Service Type"/>
+  <img src="https://sgnd.github.io/projects/restobot/screens/one.png" width="200" height="350"/>
 
-  <img src="https://content.screencast.com/users/Radiegtya/folders/Jing/media/b8e3b04e-2a6d-421c-bf62-17573332930d/00000963.png" width="200" height="350" alt="Pick Location"/>
+  <img src="https://sgnd.github.io/projects/restobot/screens/two.png" width="200" height="350"/>
 
-  <img src="https://content.screencast.com/users/Radiegtya/folders/Jing/media/5d6ff57a-4f5f-4f0b-93ba-e38fccc91223/00000964.png" width="200" height="350" alt="Finding the truck"/>
+  <img src="https://sgnd.github.io/projects/restobot/screens/three.png" width="200" height="350"/>
 
-  <img src="https://content.screencast.com/users/Radiegtya/folders/Jing/media/e7f85fb0-3c45-4818-a362-ab1026d9ff44/00000965.png" width="200" height="350" alt="Order History"/>
+  <img src="https://sgnd.github.io/projects/restobot/screens/four.png" width="200" height="350"/>
 </p>
-
-## Features
-* Simple app to order in restaurant
 
 ## Why Restobot?
 * Out of the box app of the year!
@@ -37,7 +30,7 @@ Restobot is mobile app for orders food or drink in the restaurant.
 ## Prerequisites
 * Make sure You had been install NodeJs in your system https://nodejs.org/
 * Then install React Native https://facebook.github.io/react-native/
-* Don’t forget Express Js as the backend https://www.express.com/
+* Don’t forget Express Js as the backend https://www.expressjs.com/
 
 ## Installation & Configuration
 Follow these step to install
@@ -68,8 +61,6 @@ $ yarn start #run your server on http://localhost:3000
 
 ## PowerPoint
 * View here https://www.canva.com/design/DADkbIZoOFM/mXojlgVNNg9w2Kmnh716XA/view
-
-----
 
 ## License
 MIT
