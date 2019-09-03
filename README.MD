@@ -35,7 +35,7 @@ Restobot is mobile app for orders food or drink in the restaurant.
 ## Installation & Configuration
 Follow these step to install
 
-**Frontend:**
+**Front-end:**
 ```
 $ git clone https://github.com/sgnd/restobot
 $ cd restobot/frontend
